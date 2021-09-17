@@ -1,4 +1,4 @@
-# Building a database from Scratch and Writing Queries to Organize wareheouse
+# Building Database from Scratch and Writing Queries to Organize wareheouse
 This project had two major parts:
  1) Data Wrangling 
 2) Creating database using MySQL 
