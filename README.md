@@ -1,5 +1,5 @@
 # Building Database from Scratch and Writing Queries to Organize wareheouse
-This project had two major parts:
+This project has two major parts:
 # 1) Data Wrangling 
 # 2) Creating database using MySQL 
  - Normalize  the  dataset.   Identify  and  list  the  tables  that  should  be  created,  the  types  ofcolumns for each table, as well as the primary and foreign keys of each table.
